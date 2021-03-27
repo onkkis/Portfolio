@@ -10,8 +10,8 @@ const Navigation = () => {
                     <Navbar.Toggle aria-controls='responsive-navbar-nav' />
                     <Navbar.Collapse className='navbar_collapse'>
                         <Nav>
-                            <Nav.Link href='/'>Etusivu</Nav.Link>
-                            <Nav.Link href='/projects'>Projektit</Nav.Link>
+                            <Nav.Link href='/'>Home</Nav.Link>
+                            <Nav.Link href='/projects'>Projects</Nav.Link>
                             <Nav.Link href='https://www.linkedin.com/in/samuli-schroderus-a82880125/'>Linkedin</Nav.Link>
                             <Nav.Link href='https://github.com/onkkis'>Github</Nav.Link>
                         </Nav>
